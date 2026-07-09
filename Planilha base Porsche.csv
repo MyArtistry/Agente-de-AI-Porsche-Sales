@@ -1,0 +1,101 @@
+sale_id,sale_date,customer_name,porsche_model,model_year,sale_price,vehicle_mileage,payment_method,city,state,salesperson,delivery_status
+6,2024-02-30,Michael Adams,718 Cayman,2022,"$79,500.00","9,800 miles",Credit card,boston,ma,kevin,delivered
+7,03/14/2024,SOPHIA Miller,911 Turbo S,twenty twenty four,235000 USD,1.200 mi,wire transfer,Seattle,Washington,AMANDA scott,DELIVERED
+8,18/4/2024,Daniel-Jones,Cayenne Coupe,2023,USD 112.750,"Miles: 6,400",Financing plan,austin,tx,Brian Hall,in Transit
+9,"April 31st, 2024",Olivia Brown,Macan S,2021,68.900 dollars,28,CASH,Denver,colorado,jessica,Pending
+10,22/5/2024,Ethan Wilson,Taycan 4S,2024,$121k,zero miles,bank-transfer,los angeles,ca,Thomas King,delivered!!!
+11,6/8/2024,Ava Martinez,Panamera 4,20-23,"104,500 USD",14.500 miles,Credit Card,Miami,FL,LISA ray,cancelled
+12,2024.07.11,Noah Davis,911 Carrera S,2020,"USD $96,300","41,000mi",lease,new york,New York,Mark Evans,DELIVERD
+13,2024/15/07,Isabella Garcia,Cayenne E-Hybrid,2022,"$89.750,00","KM 18,900",bank wire,San Diego,CA,nancy reed,pending approval
+14,08/19/24,Liam Rodriguez,718 Boxster,two thousand twenty one,73500,"22,300 miles",debit card,chicago,IL,George Bell,shipped
+15,2/9/2024,Mia Hernandez,Macan GTS,2024,"95,000 dollars",3.500 mi,Financing,phoenix,arizona,Helen Brooks,IN TRANSIT
+16,"September 17, 2024",James Lopez,Taycan Turbo,2023,"$153,200.50",11,ACH payment,dallas,tx,samuel price,delivered
+17,2024-10-40,Charlotte Young,911 GT3,2024,USD 241.000,750 miles,WireTransfer,Las Vegas,NV,PETER Ford,pending
+18,11/5/2024,Benjamin Allen,Panamera Turbo S,2022,$132000,"19,250 mi.",cash,san jose,california,Angela Green,delivered.
+19,12/12/2024,Amelia King,Cayenne Turbo GT,2024,188k USD,"2,100 miles",crypto payment,Houston,Texas,Victor Stone,awaiting delivery
+20,Dec 25th 2024,Lucas Wright,911 Carrera Cabriolet,2023,"$127,800",twelve thousand miles,CreditCard,atlanta,ga,rachel turner,DELIVERED
+21,6/1/2025,Harper Scott,Macan,2021,"USD 58,900.00",33.700 miles,Bank Transfer,Orlando,Florida,Chris Moore,pending
+22,01/32/2025,Henry Torres,718 Spyder RS,2024,"$164,000",900 mi,finance,portland,OR,LAURA Hill,in-transit
+23,14/2/2025,Evelyn Nguyen,Taycan Cross Turismo,twenty twenty three,118500 USD,"7,800mi",wire,Charlotte,nc,Martin Young,delivered
+24,"February 29th, 2025",Alexander Flores,Cayenne S,2022,91.300 dollars,"16,000 miles",credit card payment,nashville,TN,Diana Cooper,pending!!
+25,21/3/2025,Abigail Carter,911 Targa 4S,20 24,$158.750,2.500 mi,Leasing,minneapolis,minnesota,Steve Gray,Delivered
+26,03/28/25,Jack Mitchell,Panamera,2020,"USD 72,000","49,000 miles",bank_transfer,Philadelphia,pa,Olivia Ross,CANCELLED
+27,9/4/2025,Emily Perez,Macan Electric,2025,"$86,500.00",new,wire transfer,san antonio,TX,Patrick Wood,delivered
+28,2025/04/31,William Roberts,911 Dakar,2024,270000 usd,"1,050 miles",cash payment,Salt Lake City,utah,Karen Diaz,awaiting pickup
+29,"May 12, 2025",Sofia Turner,Taycan GTS,2023,$139k,6.250 miles,Financing Plan,Raleigh,NC,Justin Cox,in transit
+30,18/6/2025,Mason Phillips,Cayenne,2021,"76,800 USD","38,400mi",credit,Detroit,Michigan,Betty Ward,delivered!!!
+31,06/31/2025,Ella Campbell,718 Cayman GT4 RS,2024,"USD $173,600",400 miles,wire-transfer,Columbus,oh,Gary Reed,pending
+32,2025.07.07,Logan Parker,911 Carrera GTS,twenty twenty two,119.900 USD,"13,600 miles",CASH payment,indianapolis,Indiana,maria foster,DELIVERED
+33,"July 22nd, 2025",Grace Evans,Panamera 4 E-Hybrid,2023,"$109,250.00",Miles 8.900,lease plan,Fort Worth,TX,Harold Bennett,In Transit
+34,14/8/2025,Jacob Edwards,Macan T,2022,eighty two thousand USD,"21,750 mi",Bank wire,Jacksonville,fl,Teresa Cook,delivered
+35,1/9/2025,Victoria Collins,Taycan Turbo S,2025,"$214,000",0 miles,Crypto,san diego,California,Frank Morgan,pending review
+36,2025-09-31,Andrew Simmons,911 Carrera,2024,"$124,500.00","4,800 miles",Credit Card,tampa,fl,natalie,delivered
+37,09/18/25,Chloe Bennett,Cayenne S,twenty twenty three,"98,200 USD",12.200 mi,bank transfer,Sacramento,California,ERIC woods,Pending
+38,4/10/2025,Ryan-Cooper,Macan,2022,USD 67.500,"Miles: 24,100",Financing,cleveland,oh,Patricia Fox,DELIVERED
+39,"October 12th, 2025",Hannah Reed,Taycan,2025,116.900 dollars,zero miles,Wire Transfer,Milwaukee,Wisconsin,alan price,in transit
+40,29/10/2025,Dylan Parker,Panamera 4S,20-24,$112k,"9,5",cash payment,Kansas City,MO,Sandra Hill,delivered!!!
+41,11/2/2025,Lily Coleman,718 Boxster,2021,"74,000 USD",31.000 miles,debit card,omaha,ne,Victor Lee,cancelled
+42,2025.11.16,Nathan Hughes,911 Turbo,twenty twenty four,"USD $198,300","2,400mi",wire-transfer,Albuquerque,New Mexico,monica,awaiting delivery
+43,2025/18/11,Zoe Foster,Cayenne Coupe,2023,"$103.750,00","KM 10,900",bank wire,Tucson,AZ,Gregory Adams,pending approval
+44,"November 31st, 2025",Caleb Ward,Macan GTS,2024,"93,600 dollars",5.800 mi,Financing Plan,fresno,ca,Laura West,shipped
+45,7/12/2025,Stella Brooks,Taycan 4S,2025,$129k,new,ACH payment,Virginia Beach,VA,Henry King,IN TRANSIT
+46,12-22-25,Owen Bryant,Panamera Turbo,2022,USD 136.000,"18,400 miles",CreditCard,colorado springs,Colorado,amber clark,delivered
+47,2025-12-40,Nora Simmons,911 GT3 RS,2024,"$286,500",700 miles,WireTransfer,Arlington,tx,PETER Lane,pending
+48,Jan 8th 2026,Isaac Butler,Cayenne E-Hybrid,2023,92.800 USD,fifteen thousand miles,lease,Bakersfield,CA,Grace Morris,delivered.
+49,15/1/2026,Leah Henderson,Macan T,2022,"$72,400.00","19,750 mi.",cash,Mesa,arizona,Kyle Perry,awaiting pickup
+50,01/28/2026,Christian Bailey,Taycan Turbo,twenty twenty five,158500 USD,"3,200 miles",crypto payment,Atlanta,GA,megan reed,delivered
+51,3/2/2026,Audrey Russell,718 Cayman,2021,"USD 69,900.00",27.600 miles,Bank Transfer,long beach,ca,Carl Simmons,pending
+52,"February 30th, 2026",Hunter Griffin,911 Targa 4,2024,$141.250,2.100 mi,finance,Oakland,California,LINDA cole,in-transit
+53,19/2/2026,Scarlett Diaz,Panamera,2020,"71,500 dollars","52,000 miles",wire,Tulsa,OK,Martin Brooks,delivered
+54,02/25/26,Eli Jenkins,Cayenne Turbo,20 23,"USD $146,800",Miles 11.300,credit card payment,Wichita,Kansas,Diana Long,pending!!
+55,2026.03.01,Madison Powell,Macan Electric,2025,"$89,700",0 miles,Leasing,new orleans,la,Steve Ross,Delivered
+56,14/3/2026,Adrian Sanders,911 Carrera S,twenty twenty two,104.600 USD,"15,900mi",bank_transfer,Honolulu,HI,Olivia Cruz,CANCELLED
+57,03/32/2026,Penelope Barnes,Taycan GTS,2024,"$142,000","6,600 miles",wire transfer,Anaheim,ca,Patrick Wood,delivered
+58,8/4/2026,Nolan Fisher,Cayenne,2021,"78,400 usd","40,250 miles",CASH,Henderson,Nevada,Karen Stone,awaiting review
+59,"April 31st, 2026",Layla Marshall,718 Spyder RS,2025,$169k,850 mi,Financing plan,Lexington,KY,justin fox,in transit
+60,21/4/2026,Gabriel Owens,911 Dakar,2024,USD 268.900,1.400 miles,credit,Riverside,California,Betty James,delivered!!!
+61,04/29/26,Victoria Hart,Panamera 4,2023,"$101,300.00","12,700mi",wire-transfer,Corpus Christi,TX,Gary Price,pending
+62,2026.05.05,Julian Stone,Macan S,twenty twenty one,66.750 USD,"29,800 miles",CASH payment,St. Louis,Missouri,maria green,DELIVERED
+63,"May 14th, 2026",Brooklyn Webb,Taycan Cross Turismo,2024,"$127,900",Miles: 7.500,lease plan,Pittsburgh,PA,Harold Young,In Transit
+64,23/5/2026,Aaron Kim,Cayenne Turbo GT,2025,two hundred thousand USD,"1,950 mi",Bank wire,Cincinnati,oh,Teresa Ward,delivered
+65,2/6/2026,Claire Watson,911 Carrera Cabriolet,2023,"$132,000",8.800 miles,Crypto,Anchorage,Alaska,Frank Reed,pending review
+66,06/15/2026,Sebastian Brooks,718 Cayman GT4 RS,2024,"USD $176,400",600 miles,Credit card,Plano,TX,Angela Moore,delivered
+67,2026-06-31,Bella Ramirez,Panamera 4 E-Hybrid,2022,108.500 dollars,"16,200 miles",bank-transfer,Newark,nj,rachel west,cancelled
+68,7/7/2026,Miles Peterson,Macan,2021,$59k,"36,000 mi",Financing,Greensboro,North Carolina,Thomas Fox,awaiting delivery
+69,"July 20th, 2026",Skylar Rogers,Taycan Turbo S,2025,218000 USD,zero,wire transfer,Lincoln,Nebraska,LISA Dunn,Pending
+70,2026-07-35,Dominic Kelly,Cayenne S,2024,USD 99.950,"5,300 miles",debit card,Jersey City,NJ,Brian Allen,delivered!!!
+71,8/4/2026,Lucy Howard,911 Carrera GTS,twenty twenty four,"$121.750,00","KM 9,450",CreditCard,chandler,az,George Hall,DELIVERD
+72,2026.08.18,Everett Cox,718 Boxster GTS,2023,"91,500 USD",13.300 mi,lease,Reno,NV,Helen King,shipped
+73,"August 31st, 2026",Maya Rivera,Panamera Turbo S,2022,$134k,"20,100 miles",wire,Buffalo,New York,samuel price,in Transit
+74,9/9/2026,Connor Ward,Macan GTS,2024,"$96,800.00",new car,ACH payment,Durham,nc,Peter Ford,delivered
+75,09/17/2026,Eliana Bell,Taycan 4S,20-25,"USD 131,600","2,900mi",bank wire,Laredo,Texas,Angela Green,pending approval
+76,28/9/2026,Cameron Murphy,Cayenne E-Hybrid,2023,$94.300,"13,100 miles",cash payment,Madison,Wisconsin,Victor Stone,delivered.
+77,6/10/2026,Ariana Cook,911 Turbo S,2025,242.000 USD,1.100 miles,crypto,Lubbock,TX,Rachel Turner,awaiting pickup
+78,10/16/26,Wesley Morgan,718 Cayman S,2022,"$82,750","22,500 miles",credit card payment,Toledo,Ohio,Chris Moore,CANCELLED
+79,"October 29th, 2026",Naomi Peterson,Macan Electric,twenty twenty six,"USD $91,300",0 mi,wire-transfer,Irvine,CA,LAURA Hill,delivered
+80,3/11/2026,Jason Perry,Panamera,2021,"79,900 dollars",44.800 miles,finance,Garland,TX,Martin Young,pending
+81,11/31/2026,Riley Flores,Cayenne Coupe,2024,$111k,"6,700 miles",Bank Transfer,Irving,tx,Diana Cooper,in-transit
+82,2026.12.11,Hazel Long,911 Targa 4S,2023,156500 USD,"Miles 4,200",CASH payment,Chesapeake,VA,Steve Gray,DELIVERED
+83,Dec 24th 2026,Easton Bailey,Taycan,2025,$119.900,1.250 mi,Leasing,Scottsdale,Arizona,Olivia Ross,pending!!
+84,2026-12-38,Aurora Cooper,Macan T,2022,"USD 73,200","18,600mi",Bank wire,Norfolk,va,Patrick Wood,delivered
+85,12/28/26,Colton Richardson,911 GT3,twenty twenty four,"$224,000.00","3,000 miles",wire transfer,Boise,Idaho,Karen Diaz,awaiting delivery
+86,15/1/2027,Mason Stewart,911 Carrera,2024,"$126,900.00","7,200 miles",Credit Card,orlando,fl,kevin brown,delivered
+87,01/29/27,Harper Reed,Cayenne,twenty twenty three,"84,500 USD",21.400 mi,bank transfer,San Jose,California,AMANDA Lee,Pending
+88,11/2/2027,Tyler-Morris,Macan S,2022,USD 69.800,"Miles: 26,300",Financing,tampa,FL,Brian Hall,DELIVERED
+89,"February 30th, 2027",Natalie Brooks,Taycan 4S,2025,132.700 dollars,zero miles,Wire Transfer,Denver,colorado,jessica white,in transit
+90,5/3/2027,Brandon Parker,Panamera,20-21,$81k,42,cash payment,Austin,tx,Thomas King,delivered!!!
+91,03/18/2027,Lauren Foster,718 Cayman,2023,"78,900 USD",17.500 miles,debit card,seattle,wa,Victor Lee,cancelled
+92,2027.04.02,Adam Hughes,911 Turbo S,twenty twenty six,"USD $249,300",900mi,wire-transfer,Boston,Massachusetts,monica green,awaiting delivery
+93,2027/15/04,Julia Coleman,Cayenne Coupe,2024,"$108.750,00","KM 8,900",bank wire,Phoenix,AZ,Gregory Adams,pending approval
+94,"April 31st, 2027",Caleb Simmons,Macan Electric,2026,"92,600 dollars",0 miles,Financing Plan,chicago,Illinois,Laura West,shipped
+95,12/5/2027,Ariana Price,Taycan Turbo,2025,$164k,new,ACH payment,Dallas,TX,Henry King,IN TRANSIT
+96,05-27-27,Owen Rivera,Panamera 4S,20 24,USD 119.000,"13,400 miles",CreditCard,san francisco,California,amber clark,delivered
+97,2027-06-40,Nora Bennett,911 GT3,2026,"$232,500","1,700 miles",WireTransfer,Las Vegas,nv,PETER Lane,pending
+98,Jun 18th 2027,Isaac Turner,Cayenne E-Hybrid,2023,96.800 USD,fourteen thousand miles,lease,Charlotte,NC,Grace Morris,delivered.
+99,3/7/2027,Leah Scott,Macan T,2022,"$74,400.00","20,750 mi.",cash,Mesa,Arizona,Kyle Perry,awaiting pickup
+100,07/22/2027,Christian Bailey,Taycan GTS,twenty twenty five,148500 USD,"5,200 miles",crypto payment,Atlanta,ga,megan reed,delivered
+101,8/8/2027,Audrey Russell,718 Boxster,2021,"USD 71,900.00",29.600 miles,Bank Transfer,long beach,CA,Carl Simmons,pending
+102,"August 32nd, 2027",Hunter Griffin,911 Targa 4,2024,$143.250,3.100 mi,finance,Oakland,California,LINDA cole,in-transit
+103,19/9/2027,Scarlett Diaz,Panamera Turbo,2020,"137,500 dollars","48,000 miles",wire,Tulsa,OK,Martin Brooks,delivered
+104,09/25/27,Eli Jenkins,Cayenne Turbo GT,20 25,"USD $204,800",Miles 3.300,credit card payment,Wichita,Kansas,Diana Long,pending!!
+105,2027.10.01,Madison Powell,911 Dakar,twenty twenty four,"$271,700","1,050 miles",Leasing,new orleans,la,Steve Ross,Delivered

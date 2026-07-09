@@ -1,0 +1,6 @@
+{
+  "name": "Porsche Sales Sanitizer",
+  "description": "Agente inteligente de auditoria e sanitização de transações de vendas da Porsche, validando datas, preços, quilometragem, modelos e estados com relatórios e dashboard interativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
