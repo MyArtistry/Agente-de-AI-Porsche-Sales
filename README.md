@@ -4,7 +4,9 @@
 </b>
     <br>
 </div>
-O Agente "Porsche Sales Sanitizer"  é um sistema de inteligência artificial corporativo desenvolvido por mim no AI Studio da Google para normalizar dados de vendas.
+
+<p>O Agente "Porsche Sales Sanitizer"  é um sistema de inteligência artificial corporativo desenvolvido por mim no AI Studio da Google para normalizar dados de vendas.</p>
+Sua missão principal é atuar como uma camada de auditoria e higienização de dados, transformando planilhas de vendas brutas com dados inconsistentes em bases de dados padronizadas, validadas matematicamente e prontas para análise de inteligência de negócios (BI).
 
 
 ## For Run Locally
