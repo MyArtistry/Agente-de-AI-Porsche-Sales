@@ -11,7 +11,7 @@ O vídeo abaixo mostra a interface gráfica do agente. O agente foi criado para 
 <img width="828" height="685" alt="ai" src="https://github.com/user-attachments/assets/5e551350-d7c8-4601-97d5-9be40af673b6" />
 
 
-## For Run Locally
+## To Run Locally
 
 **Prerequisites:**  Node.js
 
