@@ -4,9 +4,10 @@
 </b>
     <br>
 </div>
-=======
+O Agente "Porsche Sales Sanitizer"  é um sistema de inteligência artificial corporativo desenvolvido por mim no AI Studio da Google para normalizar dados de vendas.
 
-## Run Locally
+
+## For Run Locally
 
 **Prerequisites:**  Node.js
 
